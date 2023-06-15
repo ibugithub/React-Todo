@@ -1,0 +1,9 @@
+#nav-container , #nav-container ul {
+    list-style: none;
+}
+
+#nav-container {
+    display: flex;
+    gap: 15px;
+    padding: unset;
+}
